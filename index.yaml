@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  test-pulsar:
+  - apiVersion: v2
+    appVersion: 3.0.0
+    created: "2023-06-30T22:31:22.758672+05:30"
+    description: Apache Pulsar Helm chart for Kubernetes
+    digest: b7f5132a16854a49417ff835f470af5d047498a37db6a64937a3f2211d57c373
+    home: https://pulsar.apache.org
+    icon: https://pulsar.apache.org/img/pulsar.svg
+    maintainers:
+    - email: dev@pulsar.apache.org
+      name: The Apache Pulsar Team
+    name: test-pulsar
+    sources:
+    - https://github.com/apache/pulsar
+    - https://github.com/apache/pulsar-helm-chart
+    urls:
+    - https://suman-mohan.github.io/pulsarhelm/test-pulsar-3.0.0.tgz
+    version: 3.0.0
+generated: "2023-06-30T22:31:22.756161+05:30"
